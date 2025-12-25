@@ -208,7 +208,7 @@ Contributions are welcome! Please follow these guidelines:
 
 ## License
 
-This project is licensed under the MIT License - see the [https://github.com/Bedo-Mostafa/3D-Maze-OpenGL/blob/main/LICENSE.txt](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Bedo-Mostafa/3D-Maze-OpenGL/blob/main/LICENSE.txt) file for details.
 
 ## Credits
 
